@@ -1,0 +1,11 @@
+{
+    "name": "Rest",
+    "alias": "rest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Rest\\Providers\\RestServiceProvider"
+    ],
+    "files": []
+}
